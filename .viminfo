@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629311694,,"wq"
+|2,0,1629330894,,"wq"
 :WQ
 |2,0,1629311616,,"WQ"
 
@@ -27,26 +27,54 @@
 # Registers:
 
 # File marks:
-'0  2  11  ~/0x03-git/bash/school
-|4,48,2,11,1629311694,"~/0x03-git/bash/school"
-'1  2  8  ~/0x03-git/bash/alx
-|4,49,2,8,1629311628,"~/0x03-git/bash/alx"
-'2  1  15  ~/0x03-git/README.md
-|4,50,1,15,1629310963,"~/0x03-git/README.md"
-'3  1  15  ~/README.md
-|4,51,1,15,1629309907,"~/README.md"
-'4  1  15  ~/README.md
-|4,52,1,15,1629309841,"~/README.md"
+'0  2  24  ~/0x03-git/bash/school
+|4,48,2,24,1629330894,"~/0x03-git/bash/school"
+'1  2  15  ~/0x03-git/bash/alx
+|4,49,2,15,1629330843,"~/0x03-git/bash/alx"
+'2  2  11  ~/0x03-git/bash/school
+|4,50,2,11,1629311694,"~/0x03-git/bash/school"
+'3  2  8  ~/0x03-git/bash/alx
+|4,51,2,8,1629311628,"~/0x03-git/bash/alx"
+'4  1  15  ~/0x03-git/README.md
+|4,52,1,15,1629310963,"~/0x03-git/README.md"
+'5  1  15  ~/README.md
+|4,53,1,15,1629309907,"~/README.md"
+'6  1  15  ~/README.md
+|4,54,1,15,1629309841,"~/README.md"
 
 # Jumplist (newest first):
+-'  2  24  ~/0x03-git/bash/school
+|4,39,2,24,1629330894,"~/0x03-git/bash/school"
+-'  2  15  ~/0x03-git/bash/alx
+|4,39,2,15,1629330843,"~/0x03-git/bash/alx"
+-'  2  15  ~/0x03-git/bash/alx
+|4,39,2,15,1629330843,"~/0x03-git/bash/alx"
 -'  2  11  ~/0x03-git/bash/school
 |4,39,2,11,1629311694,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629311694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629311646,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629311646,"~/0x03-git/bash/school"
 -'  1  0  ~/0x03-git/bash/school
 |4,39,1,0,1629311646,"~/0x03-git/bash/school"
 -'  2  8  ~/0x03-git/bash/alx
 |4,39,2,8,1629311628,"~/0x03-git/bash/alx"
 -'  2  8  ~/0x03-git/bash/alx
 |4,39,2,8,1629311628,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629311628,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629311628,"~/0x03-git/bash/alx"
+-'  1  0  ~/0x03-git/bash/alx
+|4,39,1,0,1629311570,"~/0x03-git/bash/alx"
+-'  1  0  ~/0x03-git/bash/alx
+|4,39,1,0,1629311570,"~/0x03-git/bash/alx"
+-'  1  0  ~/0x03-git/bash/alx
+|4,39,1,0,1629311570,"~/0x03-git/bash/alx"
+-'  1  0  ~/0x03-git/bash/alx
+|4,39,1,0,1629311570,"~/0x03-git/bash/alx"
 -'  1  0  ~/0x03-git/bash/alx
 |4,39,1,0,1629311570,"~/0x03-git/bash/alx"
 -'  1  0  ~/0x03-git/bash/alx
@@ -59,6 +87,30 @@
 |4,39,1,15,1629310963,"~/0x03-git/README.md"
 -'  1  15  ~/0x03-git/README.md
 |4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
+-'  1  15  ~/0x03-git/README.md
+|4,39,1,15,1629310963,"~/0x03-git/README.md"
 -'  1  15  ~/README.md
 |4,39,1,15,1629309907,"~/README.md"
 -'  1  15  ~/README.md
@@ -75,6 +127,102 @@
 |4,39,1,15,1629309907,"~/README.md"
 -'  1  15  ~/README.md
 |4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309907,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
+-'  1  15  ~/README.md
+|4,39,1,15,1629309841,"~/README.md"
 -'  1  15  ~/README.md
 |4,39,1,15,1629309841,"~/README.md"
 -'  1  15  ~/README.md
@@ -95,18 +243,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/0x03-git/bash/school
-	*	1629311691	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
+	*	1629330891	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
 
 > ~/0x03-git/bash/alx
-	*	1629311620	0
-	"	2	8
-	^	2	9
-	.	2	8
-	+	2	8
+	*	1629330839	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
 
 > ~/0x03-git/README.md
 	*	1629310960	0
