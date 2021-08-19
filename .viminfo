@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629312733,,"wq"
+|2,0,1629331197,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,22 @@
 # Registers:
 
 # File marks:
-'0  2  11  ~/0x03-git/bash/school
-|4,48,2,11,1629312733,"~/0x03-git/bash/school"
-'1  2  8  ~/0x03-git/bash/alx
-|4,49,2,8,1629312680,"~/0x03-git/bash/alx"
+'0  2  27  ~/0x03-git/bash/alx
+|4,48,2,27,1629331197,"~/0x03-git/bash/alx"
+'1  2  11  ~/0x03-git/bash/school
+|4,49,2,11,1629312733,"~/0x03-git/bash/school"
+'2  2  8  ~/0x03-git/bash/alx
+|4,50,2,8,1629312680,"~/0x03-git/bash/alx"
 
 # Jumplist (newest first):
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
 -'  2  11  ~/0x03-git/bash/school
 |4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
 -'  1  0  ~/0x03-git/bash/school
 |4,39,1,0,1629312694,"~/0x03-git/bash/school"
 -'  2  8  ~/0x03-git/bash/alx
@@ -43,8 +51,17 @@
 |4,39,1,0,1629312648,"~/0x03-git/bash/alx"
 -'  1  0  ~/0x03-git/bash/alx
 |4,39,1,0,1629312648,"~/0x03-git/bash/alx"
+-'  1  0  ~/0x03-git/bash/alx
+|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x03-git/bash/alx
+	*	1629331194	0
+	"	2	27
+	^	2	28
+	.	2	27
+	+	2	27
 
 > ~/0x03-git/bash/school
 	*	1629312730	0
@@ -52,10 +69,3 @@
 	^	2	12
 	.	2	11
 	+	2	11
-
-> ~/0x03-git/bash/alx
-	*	1629312676	0
-	"	2	8
-	^	2	9
-	.	2	8
-	+	2	8
