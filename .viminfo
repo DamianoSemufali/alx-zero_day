@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629331837,,"wq"
+|2,0,1629332476,,"wq"
+:q
+|2,0,1629332165,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +27,132 @@
 # Registers:
 
 # File marks:
-'0  1  34  ~/0x03-git/README.md
-|4,48,1,34,1629331837,"~/0x03-git/README.md"
-'1  2  27  ~/0x03-git/bash/alx
-|4,49,2,27,1629331197,"~/0x03-git/bash/alx"
-'2  2  11  ~/0x03-git/bash/school
-|4,50,2,11,1629312733,"~/0x03-git/bash/school"
-'3  2  8  ~/0x03-git/bash/alx
-|4,51,2,8,1629312680,"~/0x03-git/bash/alx"
+'0  1  15  ~/0x03-git/up-to-date
+|4,48,1,15,1629332476,"~/0x03-git/up-to-date"
+'1  1  34  ~/0x03-git/README.md
+|4,49,1,34,1629332165,"~/0x03-git/README.md"
+'2  1  0  ~/.git/MERGE_MSG
+|4,50,1,0,1629332112,"~/.git/MERGE_MSG"
+'3  1  34  ~/0x03-git/README.md
+|4,51,1,34,1629331837,"~/0x03-git/README.md"
+'4  2  27  ~/0x03-git/bash/alx
+|4,52,2,27,1629331197,"~/0x03-git/bash/alx"
+'5  2  11  ~/0x03-git/bash/school
+|4,53,2,11,1629312733,"~/0x03-git/bash/school"
+'6  2  8  ~/0x03-git/bash/alx
+|4,54,2,8,1629312680,"~/0x03-git/bash/alx"
 
 # Jumplist (newest first):
+-'  1  15  ~/0x03-git/up-to-date
+|4,39,1,15,1629332476,"~/0x03-git/up-to-date"
+-'  1  34  ~/0x03-git/README.md
+|4,39,1,34,1629332165,"~/0x03-git/README.md"
+-'  1  34  ~/0x03-git/README.md
+|4,39,1,34,1629332165,"~/0x03-git/README.md"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1629332112,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1629332112,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1629332112,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1629332112,"~/.git/MERGE_MSG"
+-'  1  34  ~/0x03-git/README.md
+|4,39,1,34,1629331837,"~/0x03-git/README.md"
+-'  1  34  ~/0x03-git/README.md
+|4,39,1,34,1629331837,"~/0x03-git/README.md"
+-'  1  34  ~/0x03-git/README.md
+|4,39,1,34,1629331837,"~/0x03-git/README.md"
 -'  1  34  ~/0x03-git/README.md
 |4,39,1,34,1629331837,"~/0x03-git/README.md"
 -'  2  27  ~/0x03-git/bash/alx
 |4,39,2,27,1629331197,"~/0x03-git/bash/alx"
 -'  2  27  ~/0x03-git/bash/alx
 |4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  27  ~/0x03-git/bash/alx
+|4,39,2,27,1629331197,"~/0x03-git/bash/alx"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
+-'  2  11  ~/0x03-git/bash/school
+|4,39,2,11,1629312733,"~/0x03-git/bash/school"
 -'  2  11  ~/0x03-git/bash/school
 |4,39,2,11,1629312733,"~/0x03-git/bash/school"
 -'  2  11  ~/0x03-git/bash/school
@@ -57,6 +169,62 @@
 |4,39,1,0,1629312694,"~/0x03-git/bash/school"
 -'  1  0  ~/0x03-git/bash/school
 |4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
+-'  1  0  ~/0x03-git/bash/school
+|4,39,1,0,1629312694,"~/0x03-git/bash/school"
 -'  2  8  ~/0x03-git/bash/alx
 |4,39,2,8,1629312680,"~/0x03-git/bash/alx"
 -'  2  8  ~/0x03-git/bash/alx
@@ -65,27 +233,36 @@
 |4,39,2,8,1629312680,"~/0x03-git/bash/alx"
 -'  2  8  ~/0x03-git/bash/alx
 |4,39,2,8,1629312680,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
--'  1  0  ~/0x03-git/bash/alx
-|4,39,1,0,1629312648,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629312680,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629312680,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629312680,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629312680,"~/0x03-git/bash/alx"
+-'  2  8  ~/0x03-git/bash/alx
+|4,39,2,8,1629312680,"~/0x03-git/bash/alx"
 
 # History of marks within files (newest to oldest):
 
+> ~/0x03-git/up-to-date
+	*	1629332473	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
 > ~/0x03-git/README.md
-	*	1629331833	0
+	*	1629332162	0
 	"	1	34
 	^	1	35
 	.	1	34
 	+	1	34
+
+> ~/.git/MERGE_MSG
+	*	1629332110	0
+	"	1	0
 
 > ~/0x03-git/bash/alx
 	*	1629331194	0
